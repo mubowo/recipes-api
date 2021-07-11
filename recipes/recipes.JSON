@@ -1,7 +1,31 @@
 [
-  {...
+  {
+    "id": "c0283p3d0cvuglq85m20",
+    "name": "Marinara Sauce",
+    "tags": [...
+    ],
+    "ingredients": [...
+    ],
+    "instructions": [...
+    ],
+    "publishedAt": "2021-01-17T19:28:52.80511+01:00"
   },
-  {...
+  {
+    "id": "c0283p3d0cvuglq85mq",
+    "name": "Eggplant Involtini",
+    "tags": [...
+    ],
+    "ingredients": [...
+    ],
+    "publishedAt": "2021-01-17T19:28:52.809742+01:00"
+  },
+  {
+    "id": "c0283p3d0cvuglq85n30"
+    "name": "Spinach lasagna with mushroom ragu",
+    "tags": [...
+    ],
+    "ingredients": [...
+    ],
   },
   {
     "id": "c0283p3d0cvuglq85lpg",
