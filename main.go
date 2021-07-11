@@ -14,6 +14,8 @@ var recipes []Recipe
 
 func init() {
 	recipes = make([]Recipe, 0)
+	file, _ := ioutil.ReadFile("recipes.json")
+	_ = json.Unmarshal([]byte(file), &recipes)
 }
 
 type Recipe struct {
