@@ -39,5 +39,21 @@
       "9 sprig thyme\r",
       "3/4 pound brown lentils\r",
     ]
+  },
+  {
+    "name": "Homemade Pizza",
+    "tags": [
+      "italian",
+      "pizza",
+      "dinner"
+    ],
+    "ingredients": [
+      "pizza dough",
+      "tomato sauce",
+      "olive oil",
+      "7 ounce fresh mozzarella cheese, cut into 1/2-inch cubes",
+      "5 - 6 large fresh basil leaves"
+    ],
+    "instructions": [],
   }
 ]
